@@ -1,4 +1,4 @@
 stream-unzip
-httpx
 pandas
 requests
+ipykernel
