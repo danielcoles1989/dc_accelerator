@@ -2,3 +2,5 @@ stream-unzip
 pandas
 requests
 ipykernel
+matplotlib
+seaborn

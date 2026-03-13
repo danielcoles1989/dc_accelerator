@@ -1,7 +1,7 @@
 # dc_accelerator
 Repo for Data Science Accelerator
 
-Gravty data [metadata](https://www.cepii.fr/DATA_DOWNLOAD/gravity/doc/Gravity_documentation.pdf)
+Gravty data [metadata](https://www.cepii.fr/DATA_DOWNLOAD/gravity/doc/Gravity_documentation.pdf).
 
 TO FINISH
 
