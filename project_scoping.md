@@ -4,15 +4,16 @@ I am a Data Analyst working for the Department for Business and Trade
 
 **The Business Question & Hypothesis**:
 
-    Question: What is the quantifiable economic impact of Regional Trade Agreements (RTAs), and how can we use this valuation to prioritize diplomatic and departmental resources for future negotiations?
+    Question: Are able to use various economic, geographic and political variable to try to predict trade flow between countries of varous sizes and locations?
 
-    The Hypothesis: I hypothesize that RTAs act as a significant multiplier for trade flow, overcoming natural geographic and cultural frictions. My expectation is that the model will isolate and quantify an "RTA premium" (a measurable percentage or dollar-value boost to trade), proving that trade agreements generate specific, predictable economic returns.
+    The Hypothesis: I hypothesize that larger economies are going to be the driving factors of trade betwen pairs of trade parteners. I also expect geography to be a significant factor since that can effect trade costs. (But sea being less costly than road)
 
 **Relevance to Organisation**:
 
-    Why does my department care? Negotiating a Regional Trade Agreement takes massive departmental resources spanning years of travel, legal drafting and economic analysis. Senior leaders needs to know if the effort is worth it.
+    Why does my department care?
 
-    Model Application: By building a model that predicts bilateral trade based on gravity variables (GDP, distance, language) can we simulate "what-if" scenarios? We can input two countries that currently do not have an RTA, flip the RTA variable to "1" (True), and see the projected dollar increase in trade and by how much. This allows DBT to calculate the projected ROI of diplomatic efforts and prioritize negotiations with countries that offer the highest untapped potential.
+    Trade flow data is very slow to release. If we can take data which is released more regularly (or projections) to try to predict trade flow?
+    There might also be an opportinity to identify trade routes between countries which are much lower than predicted and see if there is a reason or an opportunity to reduce friction and increase trade flow between countries.
 
 ## Ethics & Privacy:
 
