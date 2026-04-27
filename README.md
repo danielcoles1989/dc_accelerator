@@ -12,7 +12,7 @@ An enviroment manager is recommended for this project to avoid dependency issues
 
 ### Reqs
 Depending on your operating sytem create a new python venv 
-```python -m venv venv ```
+```python3 -m venv venv ```
 
 Activate your new venv
 ```source venv/bin/activate```
