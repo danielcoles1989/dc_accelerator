@@ -6,16 +6,28 @@ Gravty data [metadata](https://www.cepii.fr/DATA_DOWNLOAD/gravity/doc/Gravity_do
 TO FINISH
 
 ## Instruction for installation
-make venv
+Made using python 3.13.
+
+An enviroment manager is recommended for this project to avoid dependency issues.
 
 ### Reqs
-install reqs
+Depending on your operating sytem create a new python venv 
+```python -m venv venv ```
+
+Activate your new venv
+```source venv/bin/activate```
+
+Windows users may need to check the venv/Scripts/ folder instead.
+
+Install reqs
+```pip install -r requirements.txt```
 
 ### Download data
 run data_download.py
+```python data_download.py```
 
 ### How to run notebook
-click go
+Notebook outputs are saved so you don't need to run any cells. But if you want to change things all notebooks should run in order if you've downloaded the data correctly. NOTE: notebook.ipynb must be fully ran before notebook_ml.ipynb since the first notebook creates a filtered dataframe used by the second notebook.
 
 ### NOTES
 
